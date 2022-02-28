@@ -1,0 +1,16 @@
+id: P412980F9
+initial_creation_type: input
+source_metadata:
+  title: Abhidharmakośa Series
+  language: bo
+  description: 'Texts related to the Abhidharmakośa (chos mngon pa mdzod), or Treasury
+    of Abhidharma, by Vasubandhu:'
+  volume:
+    28ef16edb4ca401c8a5358cc6c51fe9b:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      parent: Biography
+    afa1786b98764c5ea25e2a85a91a0877:
+      title: Synopsis of the Treasury of Abhidharma (Abhidharmakośa)
+      parent: Outline
+created_at: '2022-03-01T02:28:43.792265'
+last_modified_at: '2022-03-01T02:28:43.792268'
